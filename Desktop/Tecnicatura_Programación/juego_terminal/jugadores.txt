@@ -1,0 +1,3 @@
+['Oriana', 20]
+['Oriana', 5590]
+['Oriana', 4500]
